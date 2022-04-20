@@ -1,5 +1,5 @@
 # Horcker
-Track your progress and read using Grant Horner of TMS/TMU's Bible reading system
+Track your progress and read using Grant Horner of TMS/TMU's Bible reading system. Will be either a web applet, CLI or at a stretch, desktop GUI. Will probably use the [American Bible Society](https://americanbible.org/)'s [API.Bible API](https://scripture.api.bible/).
 
 ## Professor Grant Horner's Bible Reading System
 By Prof. Grant Horner, Ph.D
